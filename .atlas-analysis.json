@@ -1,0 +1,94 @@
+{
+  "projectType": "saas",
+  "projectName": "SafeSide Prevention",
+  "projectDescription": "SafeSide Prevention provides suicide prevention education, consultation, and evaluation programs for healthcare, government, military, schools, and community organizations.",
+  "theme": "almond",
+  "primaryColor": "#2274ac",
+  "lightColor": "#044c9c",
+  "darkColor": "#d5d7de",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Overview",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "what-to-expect",
+              "approach"
+            ]
+          },
+          {
+            "group": "Programs",
+            "pages": [
+              "programs/safeside-care",
+              "programs/core-connections",
+              "programs/cams-treatment",
+              "programs/restore",
+              "programs/add-ons"
+            ]
+          },
+          {
+            "group": "Sectors",
+            "pages": [
+              "sectors/clinical-services",
+              "sectors/government",
+              "sectors/military",
+              "sectors/schools"
+            ]
+          },
+          {
+            "group": "Customization",
+            "pages": [
+              "customization/overview",
+              "customization/grants"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Resources",
+        "groups": [
+          {
+            "group": "Learning",
+            "pages": [
+              "resources/inplace-learning",
+              "resources/care-framework",
+              "resources/lived-experience"
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+              "support/faq",
+              "support/contact"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "SafeSide CARE — person-centered suicide prevention workforce education via InPlace® Learning",
+    "Core Connections — evidence-based team cohesion and resilience program for military and first responders",
+    "CAMS Treatment — collaborative, evidence-based suicide-specific therapy training for clinicians",
+    "SafeSide Restore — restorative just culture framework for post-incident organizational learning",
+    "InPlace® Learning model — blended video-guided workshops with ongoing live sessions and refreshers",
+    "Program add-ons — self-paced modules on safety planning, C-SSRS, risk formulation, and means safety",
+    "Customization — three levels of content adaptation for sector, culture, and organizational context",
+    "Evaluation and impact measurement — standardized pre/post evaluations with self-efficacy and learning transfer metrics",
+    "CME credits — 3 AMA Category 1 CME credits available through University of Rochester",
+    "Sector-specific adaptations — Mental Health, Primary Health, Youth Services, Alcohol & Other Drugs, Military, Schools"
+  ],
+  "publicApiSurface": [
+    "InPlace® Workshop (video-guided half-day training event)",
+    "SafeSide Live Learning Sessions (monthly Q&A and expert-led deep dives)",
+    "SafeSide Account (host portal for accessing guides, resources, and toolkits)",
+    "Post-workshop evaluation (online assessment linked from participant workbook)",
+    "Program add-on self-paced modules (30–60 min eLearning completions)",
+    "CAMS Foundational Video Course (10 hours online + consultation calls)",
+    "SafeSide Restore Network (bi-monthly leader network meetings)",
+    "SafeSide Framework (C.A.R.E. — Connect, Assess, Respond, Extend)"
+  ]
+}

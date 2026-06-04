@@ -1,0 +1,128 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "almond",
+  "name": "SafeSide Prevention",
+  "description": "Suicide prevention education, consultation, and evaluation programs for healthcare, government, military, schools, and community organizations.",
+  "colors": {
+    "primary": "#2274ac",
+    "light": "#044c9c",
+    "dark": "#d5d7de"
+  },
+  "favicon": "https://media.brand.dev/2602cf83-a5ec-45c2-a98f-3970931bcbde.png",
+  "logo": {
+    "light": "https://media.brand.dev/3a4e0050-7bb0-44e0-b3a1-61285dc7c96b.png",
+    "dark": "https://media.brand.dev/f332b186-6f47-480c-bfee-3c6b9650edf6.png"
+  },
+  "icons": {
+    "library": "lucide"
+  },
+  "styling": {
+    "eyebrows": "breadcrumbs"
+  },
+  "contextual": {
+    "options": ["copy", "view", "assistant", "mcp", "add-mcp"]
+  },
+  "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Home",
+          "icon": "house",
+          "href": "/"
+        },
+        {
+          "anchor": "Contact Us",
+          "icon": "life-buoy",
+          "href": "https://safesideprevention.com/contact"
+        }
+      ]
+    },
+    "directory": "card",
+    "tabs": [
+      {
+        "tab": "Overview",
+        "groups": [
+          {
+            "group": "Get Started",
+            "icon": "rocket",
+            "expanded": true,
+            "pages": [
+              "introduction",
+              "what-to-expect",
+              "approach"
+            ]
+          },
+          {
+            "group": "Programs",
+            "icon": "graduation-cap",
+            "expanded": true,
+            "pages": [
+              "programs/safeside-care",
+              "programs/core-connections",
+              "programs/cams-treatment",
+              "programs/restore",
+              "programs/add-ons"
+            ]
+          },
+          {
+            "group": "Sectors",
+            "icon": "building-2",
+            "expanded": true,
+            "pages": [
+              "sectors/clinical-services",
+              "sectors/government",
+              "sectors/military",
+              "sectors/schools"
+            ]
+          },
+          {
+            "group": "Customization",
+            "icon": "settings",
+            "expanded": true,
+            "pages": [
+              "customization/overview",
+              "customization/grants"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Resources",
+        "groups": [
+          {
+            "group": "Learning",
+            "icon": "book-open",
+            "expanded": true,
+            "pages": [
+              "resources/inplace-learning",
+              "resources/care-framework",
+              "resources/lived-experience"
+            ]
+          },
+          {
+            "group": "Support",
+            "icon": "circle-help",
+            "expanded": true,
+            "pages": [
+              "support/faq",
+              "support/contact"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [],
+    "primary": {
+      "type": "button",
+      "label": "Get Started",
+      "href": "https://safesideprevention.com/contact"
+    }
+  },
+  "footer": {
+    "socials": {
+      "linkedin": "https://linkedin.com/company/safeside-prevention"
+    }
+  }
+}
