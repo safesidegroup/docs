@@ -63,7 +63,8 @@
                 "group": "Core Connections Research",
                 "icon": "flask-conical",
                 "pages": [
-                  "programs/core-connections-research/social-network-structure"
+                  "programs/core-connections-research/social-network-structure",
+                  "programs/core-connections-research/reaching-hidden-suicide-risk"
                 ]
               },
               "programs/cams-treatment",
