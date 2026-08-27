@@ -59,6 +59,11 @@
             "pages": [
               "programs/safeside-care",
               "programs/core-connections",
+              {
+                "group": "Core Connections Research",
+                "icon": "flask-conical",
+                "pages": []
+              },
               "programs/cams-treatment",
               "programs/restore",
               "programs/add-ons"
