@@ -59,6 +59,17 @@
             "pages": [
               "programs/safeside-care",
               "programs/core-connections",
+              {
+                "group": "Core Connections Research",
+                "icon": "flask-conical",
+                "pages": [
+                  "programs/core-connections-research/social-network-structure",
+                  "programs/core-connections-research/reaching-hidden-suicide-risk",
+                  "programs/core-connections-research/wingman-connect-jama-rct",
+                  "programs/core-connections-research/connect-program-overview",
+                  "programs/core-connections-research/social-network-analysis-2022"
+                ]
+              },
               "programs/cams-treatment",
               "programs/restore",
               "programs/add-ons"
