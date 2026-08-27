@@ -62,7 +62,9 @@
               {
                 "group": "Core Connections Research",
                 "icon": "flask-conical",
-                "pages": []
+                "pages": [
+                  "programs/core-connections-research/social-network-structure"
+                ]
               },
               "programs/cams-treatment",
               "programs/restore",
